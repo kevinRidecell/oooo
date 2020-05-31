@@ -1736,6 +1736,8 @@ design/images/567LzQYfhsjo5hubmnBzRl8Yyx4.png
 design/images/1VELyxKfiYpj3Obbu6Wb4TODds.png
 design/assets/location1.json
 design/assets/location1 (3).json
+design/assets/location1 (2).json
+design/assets/location1 (1).json
 build/vendors.js
 build/framer.js
 index.html
