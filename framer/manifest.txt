@@ -22062,12 +22062,12 @@ design/images/rAqs7nCvmgHwm1a6OGVbqqUzxsA.png
 design/images/oCEJa1LYALhF27pn5KdQIkY.png
 design/images/nBYA6QTeJVYZDSmAiLV1HOiI9s.png
 design/images/kBfJIcShNpsTllCCAqmCHJ6zxw.png
-design/images/iPxmeyDHbNkfVE6YNAXajOZuPc.png
 design/images/X34aPtf28farl7T7yOko2WwCAQ.png
 design/images/V8gdvA4ChezQkPVJdRy9H9b7i1o.png
 design/images/SGXldqZrjyYPGqQoDK0xvmeTD8.png
 design/images/R0B3PoZXGz9KcdsScPi1q4rO0.png
 design/images/PxzF8HGdinOaNP0lWf9Zvbo.png
+design/images/NowdtIc5tqsqcxOxsmpphcFV2I.png
 design/images/NfaKEjHc1GjmrAGI0RwD12Bpqrw.png
 design/images/LilQmqLPGg5ov3FZN3em8E34L40.png
 design/images/JYFGjGyYt7xJh0XvtxgtjZbG5pQ.png
@@ -22082,11 +22082,7 @@ design/images/9gCYzdosRMPbRTGS90thR63LkoI.png
 design/images/8fLvx4OAnB1jKKiZvDyUdugBa84.png
 design/images/5OE2e4jMfLtgs0ag1RTBCRoo.png
 design/images/1VELyxKfiYpj3Obbu6Wb4TODds.png
-design/assets/location1.json
 design/assets/location1 (4).json
-design/assets/location1 (3).json
-design/assets/location1 (2).json
-design/assets/location1 (1).json
 build/vendors.js
 build/framer.js
 index.html
