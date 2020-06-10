@@ -349,6 +349,17 @@ node_modules/@framer/derlukas.scroll-away/code/ScrollAway.tsx
 node_modules/@framer/derlukas.scroll-away/code/App.tsx
 node_modules/@framer/derlukas.scroll-away/build/index.js
 node_modules/@framer/derlukas.scroll-away/README.md
+node_modules/@framer/deplodog.tag/tsconfig.json
+node_modules/@framer/deplodog.tag/package.json
+node_modules/@framer/deplodog.tag/metadata/icon.png
+node_modules/@framer/deplodog.tag/metadata/artwork.png
+node_modules/@framer/deplodog.tag/design/document.json
+node_modules/@framer/deplodog.tag/code/canvas.tsx
+node_modules/@framer/deplodog.tag/code/Tags.tsx
+node_modules/@framer/deplodog.tag/code/Examples.ts
+node_modules/@framer/deplodog.tag/code/App.ts
+node_modules/@framer/deplodog.tag/build/index.js
+node_modules/@framer/deplodog.tag/README.md
 node_modules/@framer/climbrick.message-box/tsconfig.json
 node_modules/@framer/climbrick.message-box/package.json
 node_modules/@framer/climbrick.message-box/metadata/icon.png
