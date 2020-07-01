@@ -1845,6 +1845,18 @@ node_modules/@framer/aroagb.airtable/code/canvas.tsx
 node_modules/@framer/aroagb.airtable/code/VerticalAirtable.tsx
 node_modules/@framer/aroagb.airtable/code/HorizontalAirtable.tsx
 node_modules/@framer/aroagb.airtable/README.md
+node_modules/@framer/apetrov.timenow/tsconfig.json
+node_modules/@framer/apetrov.timenow/package.json
+node_modules/@framer/apetrov.timenow/metadata/icon.png
+node_modules/@framer/apetrov.timenow/metadata/artwork.png
+node_modules/@framer/apetrov.timenow/design/document.json
+node_modules/@framer/apetrov.timenow/code/helpers/textStylePropertyControls.js
+node_modules/@framer/apetrov.timenow/code/helpers/formats.js
+node_modules/@framer/apetrov.timenow/code/data/locales.js
+node_modules/@framer/apetrov.timenow/code/canvas.tsx
+node_modules/@framer/apetrov.timenow/code/TimeNow.tsx
+node_modules/@framer/apetrov.timenow/build/index.js
+node_modules/@framer/apetrov.timenow/README.md
 node_modules/@framer/anubisvic_ofx.interactive-form-elements/tsconfig.json
 node_modules/@framer/anubisvic_ofx.interactive-form-elements/package.json
 node_modules/@framer/anubisvic_ofx.interactive-form-elements/metadata/icon.png
@@ -1867,7 +1879,6 @@ design/images/e3LdZ1AHWHgfwbZ8K3Wwbw4ef38.png
 design/images/ZV077W3vzR1tp7KArzM9jRgr0.png
 design/images/X34aPtf28farl7T7yOko2WwCAQ.png
 design/images/V8gdvA4ChezQkPVJdRy9H9b7i1o.png
-design/images/UsroyhMCUyGKFK82quCGJUbuUtE.png
 design/images/UkrqmEM4QcHbBAb8PMm4rjtgU.png
 design/images/SGXldqZrjyYPGqQoDK0xvmeTD8.png
 design/images/R0B3PoZXGz9KcdsScPi1q4rO0.png
@@ -1877,15 +1888,12 @@ design/images/IezzAaB6pGesNaVkNse5YdmY.png
 design/images/GsqWwNPS3vpMlEVuL3YTUYTAp4.png
 design/images/DjBFxQjvoofMkfgUi9GeBYGiG0.png
 design/images/D7nmA1s50glP2nz1KAFjiOCFDEQ.png
-design/images/8fLvx4OAnB1jKKiZvDyUdugBa84.png
 design/images/6Ch8n1bHXw2MDJzbrevidbRsOl4.png
 design/images/5oktyAgJw8LVxY7iKudha8y0wUM.png
 design/images/5OE2e4jMfLtgs0ag1RTBCRoo.png
 design/images/3IF9QLY84rnw4ZAz6k3L8ERXXPQ.png
-design/images/0bDgjzJdQM5LRmDx7cNMC2GuWMc.png
 design/assets/location2.json
 design/assets/location1.json
-design/assets/location1 (4).json
 build/vendors.js
 build/framer.js
 index.html
